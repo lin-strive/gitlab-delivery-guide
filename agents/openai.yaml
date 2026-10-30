@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitLab 自动交付向导"
+  short_description: "从项目地址开始，逐步配置 GitLab 自动部署、指定虚拟机测试与报告回传"
+  default_prompt: "请使用 $gitlab-delivery-guide，从 GitLab 项目地址开始，引导我完成自动部署和指定虚拟机自动化测试。"

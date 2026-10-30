@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "project": {
+    "url": null,
+    "api_base": null,
+    "id": null,
+    "path": null,
+    "inspection_ref": null,
+    "deployment_branches": [],
+    "gitlab_version": null,
+    "ci_config_path": null
+  },
+  "build": {
+    "runner_tags": [],
+    "applications": []
+  },
+  "deployment": {
+    "enabled": false,
+    "environment": null,
+    "target": null,
+    "method": null,
+    "release_path": null,
+    "services": [],
+    "runner_tags": [],
+    "health_checks": [],
+    "backup_strategy": null,
+    "rollback_entrypoint": null,
+    "lock": {"kind": null, "key": null, "scope": null}
+  },
+  "acceptance": {
+    "node_kind": null,
+    "mode": null,
+    "base_url": null,
+    "runner_tags": [],
+    "vm_id": null,
+    "hostname": null,
+    "platform": null,
+    "architecture": null,
+    "framework": null,
+    "toolchain": [],
+    "command": null,
+    "scope": [],
+    "required_checks": [],
+    "write_tests_enabled": false,
+    "write_tests_authorized": false,
+    "cleanup_entrypoint": null
+  },
+  "credentials": [],
+  "reports": {
+    "deployment": null,
+    "junit": null,
+    "acceptance": null,
+    "screenshots": null
+  },
+  "evidence": [],
+  "unresolved": []
+}

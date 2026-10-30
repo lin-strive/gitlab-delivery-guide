@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "status": "prepared",
+  "current_stage": "project",
+  "stages": [
+    {"id": "project", "status": "pending", "evidence": [], "reason": null},
+    {"id": "plan", "status": "pending", "evidence": [], "reason": null},
+    {"id": "runners", "status": "pending", "evidence": [], "reason": null},
+    {"id": "preflight", "status": "pending", "evidence": [], "reason": null},
+    {"id": "implementation", "status": "pending", "evidence": [], "reason": null},
+    {"id": "pipeline", "status": "pending", "evidence": [], "reason": null},
+    {"id": "handover", "status": "pending", "evidence": [], "reason": null}
+  ],
+  "pending_user_action": null,
+  "next_step": null,
+  "updated_at": null,
+  "project_id": null,
+  "branch": null,
+  "configuration_commit": null,
+  "application_sha": null,
+  "test_script_sha": null,
+  "environment": null,
+  "pipeline_url": null,
+  "child_pipeline_url": null,
+  "jobs": [],
+  "deployment": {"status": "not-run"},
+  "acceptance": {"status": "not-run", "scope": [], "checks": [], "cleanup": "not-run"},
+  "reports": [],
+  "limitations": [],
+  "remaining": []
+}
