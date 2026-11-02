@@ -18,7 +18,6 @@
     "enabled": false,
     "environment": null,
     "target": null,
-    "execution_node": {"kind": null, "vm_id": null, "hostname": null},
     "method": null,
     "release_path": null,
     "services": [],
