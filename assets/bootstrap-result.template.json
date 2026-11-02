@@ -26,6 +26,8 @@
   "deployment": {"status": "not-run"},
   "acceptance": {"status": "not-run", "scope": [], "checks": [], "cleanup": "not-run"},
   "reports": [],
+  "browser_evidence": [],
+  "side_effects": [],
   "limitations": [],
   "remaining": []
 }
